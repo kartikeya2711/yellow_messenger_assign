@@ -1,0 +1,9 @@
+Just for Setup
+
+Here we need to setup first our DB, where we can store all the url
+
+There are 2 parts of this project.
+1. One is url shortener
+2. And another is URL Redirection to the Original One from Shortened URL
+
+Please let me know in case you have any query
